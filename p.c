@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define START 60
+#define START 100 
 #define END 0
 int main(void) {
 	
